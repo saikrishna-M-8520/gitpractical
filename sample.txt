@@ -1,7 +1,7 @@
 This is first line of code 
 This is next to first line of code
 This is second line of code
-This is fourt line of code
+This is next to third line of code
 This is 3rd line of code
 This is sixth line of code
 This is last line of code
